@@ -1,0 +1,60 @@
+Market Reseaech for a (0-1 or B2C) Product.
+  Environmental Analysis
+  Competitor Analysis
+  Business Model Canvas
+  Market Sizing (TAM, SAM, Target Market)
+  Production Adoption Curve
+User Research for a 0-1 Product
+  Qualitative & Quantitative Methods
+  Interviews
+  Surveys
+  Client Requirement Gathering
+Create product Artifacts for 0-1 product
+  User Persona
+  User Journery Mapping
+User design for a 1-N product
+  Critique design of web and app based products
+  Conceptual Design
+  IA
+  Visual Principles
+  Web and App Based product trends
+Prototyping
+  Sketch
+  Wireframe
+  Interactive Prototypes
+  Building B2B Product Demo
+MVP + Usability testing
+  Introducting to Usability Testing
+  MVP and its Importance
+  Build Measure Learn Framework
+  Testing and Validating MVP
+  Cerating Landing Pages
+Product Analytics
+  Identifying Metrics: AARRR & HEART Framework
+  Segmentation & Cohort Analysis
+  A/B Testing
+  Google Analytics
+Growth, Engagement & Monetisation
+  Acquistion, Activation, Retention, Engagment, REferral startegies
+  Pricing Models & Monetisation
+  Creatin Growth Loops within the Product
+Product marketing and GTM strategy
+  Introduction to GTM & its components
+  Product- market Fit
+  Product Pricing
+  Product Marketing & Sales Strategies
+  Product Launching Plan
+Product Planning and Development
+  Agile Methodology
+  Scrum Product Development
+  Sprint Planning
+  Writing Effective Product Requirement
+  Creating a product roadmap
+  Creating a sprint backlog, A product backlog and user stories
+  Building a product requirement document
+Tech for PMs
+  What Engineers Epect from PMs and Vice-Versa
+  Basics Architecture of Applications
+  Understanding Tech Stacks
+  Cloud Overview & Performance
+  Basics Software Dev & Release Cycle
